@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **Master's student in Software Engineering**
 
 ## 🌟 About Me  
 
-- 🔭 Currently working on projects involving **Spring Boot**, **React.js**, **Flutter**, and **PostgreSQL**.  
+- 🔭 Currently working on projects involving **Spring Boot**, **React.js**, **NestJS**, **Flutter**.  
 - 🌱 Learning and exploring **DevOps** practices and **AI/ML** technologies to enhance my skill set.  
 - 💡 Interested in building scalable systems and adding automation to projects.  
 - 📌 Based in **Tunisia**, actively seeking opportunities to contribute and grow.
