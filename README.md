@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Hadil Ben Messaouda  
 
-Welcome to my GitHub profile! I'm a **Master's student in Software Engineering** with a passion for creating innovative and automated solutions. I thrive on solving challenges with technology and am excited to share my projects and journey with you.
+Welcome to my GitHub profile! I'm a **Software engineer** with a passion for creating innovative and automated solutions. I thrive on solving challenges with technology and am excited to share my projects and journey with you.
 
 ---
 
 ## 🌟 About Me  
 
-- 🔭 Currently working on projects involving **Spring Boot**, **React.js**, **NestJS**, **Flutter**.  
+- 🔭 Currently working on projects involving **Spring Boot**, **React.js**, **NestJS**.  
 - 🌱 Learning and exploring **DevOps** practices and **AI/ML** technologies to enhance my skill set.  
 - 💡 Interested in building scalable systems and adding automation to projects.  
 - 📌 Based in **Tunisia**, actively seeking opportunities to contribute and grow.
